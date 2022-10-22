@@ -129,3 +129,4 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 <img width="204" alt="image" src="https://user-images.githubusercontent.com/75235554/197328838-597a5c3c-9c38-4a2f-97a2-2ea5641c7604.png">
 
 ## RESULT
+Thus an LSTM-based model for recognizing the named entities in the text was successfully developed.
