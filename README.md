@@ -1,7 +1,3 @@
-
-# EX. NO:
-# DATE:
-
 # <p align="center">Named Entity Recognition</p>
 
 ## AIM
@@ -147,12 +143,6 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 <img width="455" alt="image" src="https://user-images.githubusercontent.com/75235554/197328789-c2d0352c-3516-4c8f-9394-efd2f38f6707.png">
 
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/75235554/197328683-e3dd4b4b-55c5-4a43-adde-2f7b93f27db7.png">
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### Sample Text Prediction
 <img width="204" alt="image" src="https://user-images.githubusercontent.com/75235554/197328838-597a5c3c-9c38-4a2f-97a2-2ea5641c7604.png">
