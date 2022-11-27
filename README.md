@@ -1,4 +1,8 @@
-# Named Entity Recognition
+
+# EX. NO:
+# DATE:
+
+# <p align="center">Named Entity Recognition</p>
 
 ## AIM
 
